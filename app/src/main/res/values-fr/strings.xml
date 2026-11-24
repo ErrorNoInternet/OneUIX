@@ -76,6 +76,8 @@
     <string name="alwaysExpandQsTileChunk_title">Toujours développer les tuiles des paramètres rapides</string>
     <string name="alwaysShowTimeDateOnQs_title">Toujours afficher l\'heure et la date dans les paramètres rapides</string>
     <string name="setStatusBarMaxNotificationIcons_title">Modifier le nombre maximum d\'icônes de notification (Barre d\'état)</string>
+    <string name="showColoredNotificationIcons_title">Afficher les icônes de notification en couleur</string>
+    <string name="showColoredNotificationIcons_summary">Utilise les icônes des applications dans la barre d\'état.</string>
     <string name="setQsClockMonospaced_title">Police à espacement fixe pour l\'heure des paramètres rapides</string>
     <string name="showWiFiLinkSpeed_title">Afficher la vitesse de connexion actuelle dans la liste Wi-Fi</string>
     <string name="showWiFiLinkSpeed_summary">Format : Tx,Rx, en Mbps</string>
